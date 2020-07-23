@@ -1,4 +1,8 @@
-# 结缘
+---
+description: 测试
+---
+
+# 单细胞交响乐
 
 ## 吸引
 
@@ -46,11 +50,7 @@
 
 为了表达对作者的敬意，在翻译版本上线前，特意向Aaron征求了意见
 
-![image-20200722180314987](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-07-22-100315.png)
-
-![image-20200722180327063](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-07-22-100327.png)
-
-![image-20200722175034666](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-07-22-095034.png)
+![](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-07-22-095034.png)
 
 **技术一直在进步，学习也从未停止。这本书也许没有完结篇，只有未完待续**~
 
