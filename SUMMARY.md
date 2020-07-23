@@ -4,7 +4,5 @@
 
 ## 结缘
 
-* [Untitled](jie-yuan/untitled.md)
-
 ## 前言
 
