@@ -7,7 +7,8 @@ Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guang
 
 **本书的永久链接是：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top/)
 
-> 更新于2020-07-23
+> 更新于2020-07-23  
+> 新增：R包链接直达说明文档，文献链接直达PubMed
 
 ## 吸引
 
