@@ -6,7 +6,7 @@
 
 > 为了方便使用，我把表格传到了腾讯文档
 
-* [The single-cell studies database has reached 1000 studies \(腾讯文档\)](https://docs.qq.com/sheet/DTmdWbFpEaHVUSGxO?tab=bb08j2)
+* [The single-cell studies database has reached 1000 studies ](https://docs.qq.com/sheet/DTmdWbFpEaHVUSGxO?tab=bb08j2)
 * [scEpigenetics](https://docs.qq.com/sheet/DTlhlY2JBS0lhWlpz?tab=bb08j2)
 
 
