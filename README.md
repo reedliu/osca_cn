@@ -1,32 +1,34 @@
----
-description: 测试
----
+# 我与《单细胞交响乐》的缘分
 
-# 单细胞交响乐
+## 写在前面
+
+Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-05-09-035101.png)的”豆豆“，也是[简书](https://www.jianshu.com/u/d7b77c171c15)上的”刘小泽“。  
+这是我的第一本开源书，之后也许会有第二本、第三本...持续学习，不断努力🤠 
+
+**本书的链接是：**[**https://jieandze1314.osca.top/**](https://jieandze1314.osca.top/)\*\*\*\*
 
 ## 吸引
 
-这本书的名字叫：《Orchestrating Single-Cell Analysis with Bioconductor》
+我是在 2019年10月注意到： [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org/)
 
-![image-20200722180001580](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-07-22-100001.png)
+原因很简单，当时个人对单细胞很感兴趣，并且这本书还是Bioconductor团队。大佬出品，必是精品。  
+为了增加辨识度，我给这本书取了个名字：**单细胞交响乐**。因为单细胞数据涉及了许多复杂数据结构和流程，就像一个大乐团中的各种乐器，相互配合环环相扣才能演奏美妙的乐章。
 
-**我在2019年10月就关注了**，原因很简单，当时对单细胞很感兴趣，并且这还是Bioconductor团队出品，想必一定是精品。为了增加辨识度，我给这本书取了个名字：**单细胞交响乐**。因为单细胞分析就像一个大乐团，需要各个流程的协同配合，在后面的数据结构和处理流程上更是体现了这一点。一环扣一环才能演奏美妙的乐章。
+开始也是抱着试学的态度，从最简单的基础学起。后来数据结构那一章真正吸引了我，将复杂的单细胞数据结构解释得浅显易懂，还在2019.10.26写了一篇推送：[送你个对象](https://mp.weixin.qq.com/s/-zvslOg39KGodaxJcQJYaQ)。
 
-开始是抱着试试看的心情，从基础部分学习。不过要说真正吸引住我的，还是它的数据结构那一章，带我清楚地认识了更为复杂的数据类型
-
-![image-20200722171406447](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-07-22-091407.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 ## 中断
 
-我想大部分人接触单细胞数据，应该都是借助cellraner、seurat流程学习的，也因此容易形成一个思维定势，说到scRNA，就想到seurat R包。这本书不一样，它全篇都是基于自己的数据结构，主要的R包也是自己团队开发的Scater、Scran包，并且用法和Seurat相差很大。
+我想大部分人接触单细胞数据，应该都是借助[CellRanger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)、[Seurat](https://satijalab.org/seurat/)流程学习的，也因此容易形成一个思维定势，说到scRNA分析，就想到Seurat这个R包。这本书的内容不太一样，它全篇都是基于自己的数据结构SingleCellExperiment，使用的R包也主要是自己团队开发的[Scater](http://bioconductor.org/packages/release/bioc/vignettes/scater/inst/doc/overview.html)、[Scran](https://bioconductor.org/packages/release/bioc/vignettes/scran/inst/doc/scran.html)包，并且用法和Seurat差距还蛮大的。
 
-由于单细胞一直也只是一个爱好（即使到目前为止也是如此），没有相关的课题督促，对于后面的scater、scran学习使用就有点抵触。心想：我为什么要花时间去学习两个用途差不多的包呢？用最流行的不就得了？
+单细胞分析对于我来说一直只是一个爱好，暂时还没有实际项目的应用。有时心里就犯嘀咕：我为什么要花时间去学习两个用途差不多的包呢？用最流行的流程不就得了？
 
-于是慢慢的，这本书在我心里的地位就下降了，感觉它只是介绍了另外两个R包而已，后来也不再有热情去理解翻译这本书了。
+慢慢地，这本书在我心里的地位就下降了，后来也不再有热情去翻译、理解这本书了。
 
 ## 不舍
 
-在放弃更新的一段时间，也感觉到不舍，毕竟想到了开头却没想到结尾。
+在放弃更新的一段时间，心中时常会有不舍和愧疚，想到了开头却没想到结尾。
 
 每次看到别人分享这本书，我都会偷偷打开之前的交响乐文件夹，看看里面的几篇笔记，然后叹一口气，再把它关上。
 
@@ -46,9 +48,9 @@ description: 测试
 
 后面我还会添加更多的相关知识，而且保持与原书内容同步，但《单细胞交响乐》并不是原书的简单翻译版，其中会加入很多我自己的理解和补充。
 
-## 最后
+## 致谢
 
-为了表达对作者的敬意，在翻译版本上线前，特意向Aaron征求了意见
+为了表达对作者的敬意，在翻译版本上线前，特意向Aaron Lun征求了意见
 
 ![](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-07-22-095034.png)
 
