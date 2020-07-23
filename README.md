@@ -7,9 +7,6 @@ Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guang
 
 **本书的永久链接是：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top/)
 
-> 更新于2020-07-23  
-> 新增：R包链接直达说明文档，文献链接直达PubMed
-
 ## 吸引
 
 我是在 2019年10月注意到： [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org/)
@@ -50,6 +47,12 @@ Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guang
 
 与原著作者交流了一下，他们表示还会继续更新，当然我也会一直保持同步。  
 此外，我希望这本书不仅仅是中文翻译版，还希望能加入更多其他比较重要的知识，比如Seurat的各种操作、上游操作流程等等，让本书内容更加丰富。
+
+## 更新
+
+**2020-07-23**
+
+* 新增：R包链接直达说明文档，文献链接直达PubMed
 
 ## 致谢
 
