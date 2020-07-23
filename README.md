@@ -5,7 +5,7 @@
 Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-05-09-035101.png)的”豆豆“，也是[简书](https://www.jianshu.com/u/d7b77c171c15)上的”刘小泽“。  
 这是我的第一本开源书，之后也许会有第二本、第三本...持续学习，不断努力🤠 
 
-**本书的永久链接是：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top/)
+**本书链接会持续更新：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top/)
 
 ## 吸引
 
