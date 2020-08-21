@@ -56,7 +56,7 @@ Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guang
 
 **2020-08-21**
 
-* 新增：第5章CellRanger的操作
+* 新增：第5章CellRanger的操作、Seurat、Monocle流程、多个数据集的整合
 
 ## 致谢
 
