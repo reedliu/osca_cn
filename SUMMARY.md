@@ -53,4 +53,5 @@
     * [5.4.1 Monocle V3实战](05/5.4-monocle-de-shi-yong/5.4.1-monocle-v3-shi-zhan.md)
   * [5.5 多个数据集的整合](05/5.5-duo-ge-shu-ju-ji-de-zheng-he/README.md)
     * [5.5.1 使用Seurat的merge功能进行整合](05/5.5-duo-ge-shu-ju-ji-de-zheng-he/5.5.1-shi-yong-seurat-de-merge-gong-neng-jin-hang-zheng-he.md)
+    * [5.5.2 如何使用sctransform去除批次效应](05/5.5-duo-ge-shu-ju-ji-de-zheng-he/5.5.2-ru-he-shi-yong-sctransform-qu-chu-pi-ci-xiao-ying.md)
 
