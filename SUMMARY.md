@@ -46,4 +46,5 @@
     * [5.2.3 CellRanger实战\(三\) 使用初探](05/5.1-cellranger-pian/5.1.3-cellranger-shi-zhan-san-shi-yong-chu-tan.md)
     * [5.2.4 CellRanger实战\(四\)流程概览](05/5.1-cellranger-pian/5.1.4-cellranger-shi-zhan-si-liu-cheng-gai-lan.md)
     * [5.2.5 CellRanger实战\(五\) 理解count输出的结果](05/5.1-cellranger-pian/5.2.5-cellranger-shi-zhan-wu-li-jie-count-shu-chu-de-jie-guo.md)
+  * [5.3 Seurat的使用](05/5.3-seurat-de-shi-yong.md)
 
