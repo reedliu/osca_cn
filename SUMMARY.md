@@ -41,4 +41,6 @@
   * [5.1 CellRanger篇](05/5.1-cellranger-pian/README.md)
     * [5.1.1 CellRanger实战\(一\)数据下载](05/5.1-cellranger-pian/5.1.1-cellranger-shi-zhan-yi-shu-ju-xia-zai.md)
     * [5.1.2 CellRanger实战\(二\) 使用前注意事项](05/5.1-cellranger-pian/5.1.2-cellranger-shi-zhan-er-shi-yong-qian-zhu-yi-shi-xiang.md)
+    * [5.1.3 CellRanger实战\(三\) 使用初探](05/5.1-cellranger-pian/5.1.3-cellranger-shi-zhan-san-shi-yong-chu-tan.md)
+    * [5.1.4 CellRanger实战\(四\)流程概览](05/5.1-cellranger-pian/5.1.4-cellranger-shi-zhan-si-liu-cheng-gai-lan.md)
 
