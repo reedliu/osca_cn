@@ -49,4 +49,6 @@
   * [5.3 Seurat的使用](05/5.3-seurat-de-shi-yong/README.md)
     * [5.3.1 Seurat V3实战之2700 PBMCs分析](05/5.3-seurat-de-shi-yong/5.3.1-seurat-v3-shi-zhan-zhi-2700-pbmcs-fen-xi.md)
     * [5.3.2 scRNA的3大R包对比](05/5.3-seurat-de-shi-yong/5.3.2-scrna-de-3-darbao-dui-bi.md)
+  * [5.4 Monocle的使用](05/5.4-monocle-de-shi-yong/README.md)
+    * [5.4.1 Monocle V3实战](05/5.4-monocle-de-shi-yong/5.4.1-monocle-v3-shi-zhan.md)
 
