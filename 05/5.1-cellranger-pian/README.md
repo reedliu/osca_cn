@@ -1,8 +1,8 @@
-# 5.1 CellRanger篇
+# 5.2 CellRanger篇
 
-## 将会包括什么内容?
+## 这一部分将会介绍什么?
 
-这一部分将会实战演练CellRanger的使用
+自己从下载数据开始，实战上手CellRanger的使用
 
 ## 
 
