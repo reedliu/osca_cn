@@ -48,4 +48,5 @@
     * [5.2.5 CellRanger实战\(五\) 理解count输出的结果](05/5.1-cellranger-pian/5.2.5-cellranger-shi-zhan-wu-li-jie-count-shu-chu-de-jie-guo.md)
   * [5.3 Seurat的使用](05/5.3-seurat-de-shi-yong/README.md)
     * [5.3.1 Seurat V3实战之2700 PBMCs分析](05/5.3-seurat-de-shi-yong/5.3.1-seurat-v3-shi-zhan-zhi-2700-pbmcs-fen-xi.md)
+    * [5.3.2 scRNA的3大R包对比](05/5.3-seurat-de-shi-yong/5.3.2-scrna-de-3-darbao-dui-bi.md)
 
