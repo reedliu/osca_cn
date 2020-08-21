@@ -37,5 +37,8 @@
   * [4.12 实战十二 \| 10X \| 小鼠嵌合体胚胎](04/04-12.md)
   * [4.13 实战十三 \| 10X \| 小鼠乳腺上皮细胞](04/04-13.md)
   * [4.14 \| 实战十四 \| 10X \| HCA计划的38万骨髓细胞](04/04-14.md)
-* [5 补充篇：开拓思路](05.md)
+* [5 补充篇：开拓思路](05/README.md)
+  * [5.1 CellRanger篇](05/5.1-cellranger-pian/README.md)
+    * [5.1.1 CellRanger实战\(一\)数据下载](05/5.1-cellranger-pian/5.1.1-cellranger-shi-zhan-yi-shu-ju-xia-zai.md)
+    * [5.1.2 CellRanger实战\(二\) 使用前注意事项](05/5.1-cellranger-pian/5.1.2-cellranger-shi-zhan-er-shi-yong-qian-zhu-yi-shi-xiang.md)
 
