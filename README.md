@@ -7,7 +7,8 @@ Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guang
 
 **本书链接会持续更新：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top/)
 
-**关于引用：**YunzeLiu. \(2020\). Single Cell Symphony \(Version 1.0\). Zenodo. [http://doi.org/10.5281/zenodo.3993928](http://doi.org/10.5281/zenodo.3993928)
+**关于引用：**YunzeLiu. \(2020\). Single Cell Symphony \(Version 2.0\). Zenodo.   
+[https://doi.org/10.5281/zenodo.4044735](https://doi.org/10.5281/zenodo.4044735)
 
 ## 吸引
 
