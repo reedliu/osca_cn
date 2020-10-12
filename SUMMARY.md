@@ -7,7 +7,7 @@
 * [2 积累篇：文献阅读](02/README.md)
   * [2.1 综述 \| 单细胞转录组分析最佳思路](02/02-1.md)
   * [2.2 算法｜BatchBench比较scRNA批次矫正方法](02/2.2-suan-fa-batchbench-bi-jiao-scrna-pi-ci-jiao-zheng-fang-fa.md)
-  * [2.3 综述 \| 2018-单细胞捕获平台](02/2.3-zong-shu-2018-dan-xi-bao-bu-huo-ping-tai.md)
+  * [2.3 综述 \| 单细胞捕获平台](02/2.3-zong-shu-2018-dan-xi-bao-bu-huo-ping-tai.md)
 * [3 流程篇：分析框架](03/README.md)
   * [3.1 质控](03/03-1.md)
   * [3.2 归一化](03/03-2.md)
