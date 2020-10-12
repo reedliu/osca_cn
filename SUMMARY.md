@@ -11,6 +11,7 @@
   * [2.2.1 研究 \| 2018-单细胞转录组探索癌症免疫治疗获得性抗性机理](02/2.4-yan-jiu-dan-xi-bao-zhuan-lu-zu-tan-suo-ai-zheng-mian-yi-zhi-liao-huo-de-xing-kang-xing-ji-li.md)
   * [2.2.2 研究 \| 2018-人类结直肠癌单细胞多组学分析](02/2.5-yan-jiu-2018-ren-lei-jie-zhi-chang-ai-dan-xi-bao-duo-zu-xue-fen-xi.md)
   * [2.2.3 研究 \| 2020-单细胞分析揭示葡萄膜黑色素瘤新的进化复杂性](02/2.2.3-yan-jiu-2020-dan-xi-bao-fen-xi-jie-shi-pu-tao-mo-hei-se-su-liu-xin-de-jin-hua-fu-za-xing.md)
+  * [2.2.4 研究 \| 2020-COVID-19病人支气管免疫细胞单细胞测序分析](02/2.2.4-yan-jiu-2020covid19-bing-ren-zhi-qi-guan-mian-yi-xi-bao-dan-xi-bao-ce-xu-fen-xi.md)
   * [2.3.1 算法｜2020-BatchBench比较scRNA批次矫正方法](02/2.2-suan-fa-batchbench-bi-jiao-scrna-pi-ci-jiao-zheng-fang-fa.md)
 * [3 流程篇：分析框架](03/README.md)
   * [3.1 质控](03/03-1.md)
