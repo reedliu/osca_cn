@@ -9,7 +9,5 @@
 * [The single-cell studies database has reached 1000 studies ](https://docs.qq.com/sheet/DTmdWbFpEaHVUSGxO?tab=bb08j2)
 * [scEpigenetics](https://docs.qq.com/sheet/DTlhlY2JBS0lhWlpz?tab=bb08j2)
 
-**组织架构**
 
-主要将文献分为了：综述（2.1开头）、研究（2.2开头）、算法（2.3开头）
 
