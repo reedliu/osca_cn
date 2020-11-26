@@ -58,7 +58,7 @@
     * [5.3.1 Seurat V3 \| 实战之2700 PBMCs分析](05/5.3-seurat-de-shi-yong/5.3.1-seurat-v3-shi-zhan-zhi-2700-pbmcs-fen-xi.md)
     * [5.3.2 Seurat V3 \| 如何改造Seurat包的DoHeatmap函数？](05/5.3-seurat-de-shi-yong/5.3.3-seurat-v3-ru-he-gai-zao-seurat-bao-de-doheatmap-han-shu.md)
     * [5.3.3 scRNA的3大R包对比](05/5.3-seurat-de-shi-yong/5.3.2-scrna-de-3-darbao-dui-bi.md)
-    * [5.3.4 Seurat的integrated vs RNA assay](05/5.3-seurat-de-shi-yong/5.3.4-seurat-de-integrated-vs-rna-assay.md)
+    * [5.3.4 Seurat两种数据比较：integrated vs RNA assay](05/5.3-seurat-de-shi-yong/5.3.4-seurat-de-integrated-vs-rna-assay.md)
   * [5.4 Monocle的使用](05/5.4-monocle-de-shi-yong/README.md)
     * [5.4.1 Monocle V3实战](05/5.4-monocle-de-shi-yong/5.4.1-monocle-v3-shi-zhan.md)
   * [5.5 多个数据集的整合](05/5.5-duo-ge-shu-ju-ji-de-zheng-he/README.md)
