@@ -13,6 +13,7 @@
   * [2.2.3 研究 \| 2020-单细胞分析揭示葡萄膜黑色素瘤新的进化复杂性](02/2.2.3-yan-jiu-2020-dan-xi-bao-fen-xi-jie-shi-pu-tao-mo-hei-se-su-liu-xin-de-jin-hua-fu-za-xing.md)
   * [2.2.4 研究 \| 2020-COVID-19病人支气管免疫细胞单细胞测序分析](02/2.2.4-yan-jiu-2020covid19-bing-ren-zhi-qi-guan-mian-yi-xi-bao-dan-xi-bao-ce-xu-fen-xi.md)
   * [2.2.5 研究 \| 原汁原味读--单细胞肿瘤免疫图谱](02/2.2.5-yan-jiu-yuan-zhi-yuan-wei-du-dan-xi-bao-zhong-liu-mian-yi-tu-pu.md)
+  * [2.2.6 多发性骨髓瘤发展过程中肿瘤和免疫细胞的共同进化](02/2.2.6-duo-fa-xing-gu-sui-liu-fa-zhan-guo-cheng-zhong-zhong-liu-he-mian-yi-xi-bao-de-gong-tong-jin-hu.md)
   * [2.3.1 算法｜2020-BatchBench比较scRNA批次矫正方法](02/2.2-suan-fa-batchbench-bi-jiao-scrna-pi-ci-jiao-zheng-fang-fa.md)
 * [3 流程篇：分析框架](03/README.md)
   * [3.1 质控](03/03-1.md)
