@@ -15,6 +15,7 @@
   * [2.2.5 研究 \| 2020-原汁原味读--单细胞肿瘤免疫图谱](02/2.2.5-yan-jiu-yuan-zhi-yuan-wei-du-dan-xi-bao-zhong-liu-mian-yi-tu-pu.md)
   * [2.2.6  研究 \| 2021-多发性骨髓瘤发展过程中肿瘤和免疫细胞的共同进化](02/2.2.6-duo-fa-xing-gu-sui-liu-fa-zhan-guo-cheng-zhong-zhong-liu-he-mian-yi-xi-bao-de-gong-tong-jin-hu.md)
   * [2.2.7 研究 \| 2021-多个组织的成纤维细胞图谱](02/2.2.7-yan-jiu-duo-ge-zu-zhi-de-cheng-xian-wei-xi-bao-tu-pu.md)
+  * [2.2.8 研究 \| 2021-多组学分析肺结核队列的记忆T细胞状态](02/2.2.8-yan-jiu-2021-duo-zu-xue-fen-xi-fei-jie-he-dui-lie-de-ji-yitxi-bao-zhuang-tai.md)
   * [2.3.1 算法｜2020-BatchBench比较scRNA批次矫正方法](02/2.2-suan-fa-batchbench-bi-jiao-scrna-pi-ci-jiao-zheng-fang-fa.md)
   * [2.3.2 算法 \| 2021-scPhere——用地球仪来展示降维结果](02/2.3.2-suan-fa-2021scphere-jin-yi-bu-jian-ruo-pi-ci-xiao-ying-de-jiang-wei-gong-ju.md)
 * [3 流程篇：分析框架](03/README.md)
