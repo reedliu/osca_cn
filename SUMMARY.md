@@ -16,7 +16,7 @@
   * [2.2.6  研究 \| 2021-多发性骨髓瘤发展过程中肿瘤和免疫细胞的共同进化](02/2.2.6-duo-fa-xing-gu-sui-liu-fa-zhan-guo-cheng-zhong-zhong-liu-he-mian-yi-xi-bao-de-gong-tong-jin-hu.md)
   * [2.2.7 研究 \| 2021-多个组织的成纤维细胞图谱](02/2.2.7-yan-jiu-duo-ge-zu-zhi-de-cheng-xian-wei-xi-bao-tu-pu.md)
   * [2.3.1 算法｜2020-BatchBench比较scRNA批次矫正方法](02/2.2-suan-fa-batchbench-bi-jiao-scrna-pi-ci-jiao-zheng-fang-fa.md)
-  * [2.3.2 算法 \| 2021-scPhere——进一步减弱批次效应的降维工具](02/2.3.2-suan-fa-2021scphere-jin-yi-bu-jian-ruo-pi-ci-xiao-ying-de-jiang-wei-gong-ju.md)
+  * [2.3.2 算法 \| 2021-scPhere——用地球仪来展示降维结果](02/2.3.2-suan-fa-2021scphere-jin-yi-bu-jian-ruo-pi-ci-xiao-ying-de-jiang-wei-gong-ju.md)
 * [3 流程篇：分析框架](03/README.md)
   * [3.1 质控](03/03-1.md)
   * [3.2 归一化](03/03-2.md)
