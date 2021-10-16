@@ -2,23 +2,23 @@
 
 ## 写在前面
 
-Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-05-09-035101.png)的”豆豆“，也是[~~简书~~](https://www.jianshu.com/u/d7b77c171c15)上的”刘小泽“\(由于简书平台封锁了太多文章，目前更新均在[博客](https://www.jieandze1314.com/)\)。  
-这是我的第一本开源书，之后也许会有第二本、第三本...持续学习，不断努力🤠 
+Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-05-09-035101.png)的”豆豆“，也是[~~简书~~](https://www.jianshu.com/u/d7b77c171c15)上的”刘小泽“(由于简书平台封锁了太多文章，目前更新均在[博客](https://www.jieandze1314.com))。\
+这是我的第一本开源书，之后也许会有第二本、第三本...持续学习，不断努力:cowboy: 
 
-**本书链接会持续更新\( updated on 2021-05-25\)：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top/)
+**本书链接会持续更新( updated on 2021-0)：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top)
 
-**关于引用：**YunzeLiu. \(2020\). Single Cell Symphony \(Version 2.0\). Zenodo. [https://doi.org/10.5281/zenodo.4044753](https://doi.org/10.5281/zenodo.4044753)
+**关于引用：**YunzeLiu. (2020). Single Cell Symphony (Version 2.0). Zenodo. [https://doi.org/10.5281/zenodo.4044753](https://doi.org/10.5281/zenodo.4044753)
 
 ## 吸引
 
-我是在 2019年10月注意到： [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org/)
+我是在 2019年10月注意到： [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org)
 
-原因很简单，当时个人对单细胞很感兴趣，并且这本书还是Bioconductor团队。大佬出品，必是精品。  
+原因很简单，当时个人对单细胞很感兴趣，并且这本书还是Bioconductor团队。大佬出品，必是精品。\
 为了增加辨识度，我给这本书取了个名字：**单细胞交响乐**。因为单细胞数据涉及了许多复杂数据结构和流程，就像一个大乐团中的各种乐器，相互配合环环相扣才能演奏美妙的乐章。
 
 开始也是抱着试学的态度，从最简单的基础学起。后来数据结构那一章真正吸引了我，将复杂的单细胞数据结构解释得浅显易懂，还在2019.10.27写了一篇推送：[送你个对象](https://mp.weixin.qq.com/s/-zvslOg39KGodaxJcQJYaQ)。
 
-![](.gitbook/assets/image%20%281%29.png)
+![](<.gitbook/assets/image (1).png>)
 
 ## 中断
 
@@ -38,16 +38,16 @@ Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guang
 
 ## 重拾
 
-> 2020是一个注定特殊的年份  
+> 2020是一个注定特殊的年份\
 > 万万没想到，从6.23到7.22，经历了一个月，完成了这个长久的小心愿
 
-2020年的6月，无意间又打开了这本书的链接，看着团队已经更新到了30多章，此时”花花“（也就是域名jieandze1314中的jie）也开始了单细胞的学习，我答应她要提供一份学习资料。正好借着公众号推出的专辑功能，我尝试每写一篇都发表然后放在[公众号专辑](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzU4NjU4ODQ2MQ==&scene=1&album_id=1402375646780817409#wechat_redirect)中，当做对自己的一个提醒。
+2020年的6月，无意间又打开了这本书的链接，看着团队已经更新到了30多章，此时”花花“（也就是域名jieandze1314中的jie）也开始了单细胞的学习，我答应她要提供一份学习资料。正好借着公众号推出的专辑功能，我尝试每写一篇都发表然后放在[公众号专辑](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&\__biz=MzU4NjU4ODQ2MQ==\&scene=1\&album_id=1402375646780817409#wechat_redirect)中，当做对自己的一个提醒。
 
 第一篇发表于2020-06-23，接下来的几天，我都保持了每天阅读一章、重复一遍、更新一篇的节奏。当然，开始的速度会很慢，但随着对整体数据结构以及R包、函数的了解越来越深入，我也能明白作者想要做什么事，又是如何去实现的，后来速度就快了许多。这里必须要感谢Bioconductor团队精心准备了各种测试数据集和详细的操作代码。
 
 为了提供更好的阅读、交流体验，我将之前的学习笔记做成了现在这本开源书。个人认为，开源书比出版书的优势就是：持续更新；方便沟通；易于更改。
 
-与原著作者交流了一下，他们表示还会继续更新，当然我也会一直保持同步。  
+与原著作者交流了一下，他们表示还会继续更新，当然我也会一直保持同步。\
 此外，我希望这本书不仅仅是中文翻译版，还希望能加入更多其他比较重要的知识，比如Seurat的各种操作、上游操作流程等等，让本书内容更加丰富。
 
 ## 更新
@@ -70,7 +70,7 @@ Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guang
 
 ## 致谢
 
-> 为了表达对作者的敬意，在本书上线前，特意征求了作者的同意  
+> 为了表达对作者的敬意，在本书上线前，特意征求了作者的同意\
 > 感谢他们对Bioconductor社区的贡献
 
 * _**Aaron Lun, PhD**_
@@ -78,5 +78,4 @@ Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guang
 * _**Stephanie Hicks, PhD**_
 * _**Raphael Gottardo, PhD**_
 
-**技术一直进步，学习从未停止。这本书也许不会有完结篇，只有~未完待续**🤓 ~
-
+**技术一直进步，学习从未停止。这本书也许不会有完结篇，只有\~未完待续**:nerd: \~
