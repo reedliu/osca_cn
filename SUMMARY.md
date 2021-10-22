@@ -20,6 +20,7 @@
   * [2.2.8 研究 | 2021-多组学分析肺结核队列的记忆T细胞状态](02/2.2.8-yan-jiu-2021-duo-zu-xue-fen-xi-fei-jie-he-dui-lie-de-ji-yitxi-bao-zhuang-tai.md)
   * [2.2.9 研究 | 2021-CancerSCEM: 人类癌症单细胞表达图谱数据库](02/2.2.9-yan-jiu-2021cancerscem-ren-lei-ai-zheng-dan-xi-bao-biao-da-tu-pu-shu-ju-ku.md)
   * [2.2.10 研究| 2021-单细胞转录组分析COVID-19重症患者肺泡巨噬细胞亚型](02/2.2.10-yan-jiu-2021-dan-xi-bao-zhuan-lu-zu-fen-xi-covid19-zhong-zheng-huan-zhe-fei-pao-ju-shi-xi-bao.md)
+  * [2.2.11 研究 |2021-单细胞转录组揭示肺腺癌特有的肿瘤微环境](02/2.2.11-yan-jiu-2021-dan-xi-bao-zhuan-lu-zu-jie-shi-fei-xian-ai-te-you-de-zhong-liu-wei-huan-jing.md)
   * [2.3.1 算法｜2020-BatchBench比较scRNA批次矫正方法](02/2.2-suan-fa-batchbench-bi-jiao-scrna-pi-ci-jiao-zheng-fang-fa.md)
   * [2.3.2 算法 | 2021-scPhere——用地球仪来展示降维结果](02/2.3.2-suan-fa-2021scphere-jin-yi-bu-jian-ruo-pi-ci-xiao-ying-de-jiang-wei-gong-ju.md)
   * [2.3.3 算法 | 2021-单细胞差异分析方法评测](02/2.3.3-suan-fa-2021-dan-xi-bao-cha-yi-fen-xi-fang-fa-ping-ce.md)
