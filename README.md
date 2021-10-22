@@ -3,9 +3,9 @@
 ## 写在前面
 
 Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-05-09-035101.png)的”豆豆“，也是[~~简书~~](https://www.jianshu.com/u/d7b77c171c15)上的”刘小泽“(由于简书平台封锁了太多文章，目前更新均在[博客](https://www.jieandze1314.com))。\
-这是我的第一本开源书，之后也许会有第二本、第三本...持续学习，不断努力:cowboy: 
+这是我的第一本开源书，之后也许会有第二本、第三本...持续学习，不断努力:cowboy:&#x20;
 
-**本书链接会持续更新( updated on 2021-10-18)：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top)
+**本书链接会持续更新( updated on 2021-10-22)：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top)
 
 **关于引用：**YunzeLiu. (2020). Single Cell Symphony (Version 2.0). Zenodo. [https://doi.org/10.5281/zenodo.4044753](https://doi.org/10.5281/zenodo.4044753)
 
@@ -41,7 +41,7 @@ Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guang
 > 2020是一个注定特殊的年份\
 > 万万没想到，从6.23到7.22，经历了一个月，完成了这个长久的小心愿
 
-2020年的6月，无意间又打开了这本书的链接，看着团队已经更新到了30多章，此时”花花“（也就是域名jieandze1314中的jie）也开始了单细胞的学习，我答应她要提供一份学习资料。正好借着公众号推出的专辑功能，我尝试每写一篇都发表然后放在[公众号专辑](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&\__biz=MzU4NjU4ODQ2MQ==\&scene=1\&album_id=1402375646780817409#wechat_redirect)中，当做对自己的一个提醒。
+2020年的6月，无意间又打开了这本书的链接，看着团队已经更新到了30多章，此时”花花“（也就是域名jieandze1314中的jie）也开始了单细胞的学习，我答应她要提供一份学习资料。正好借着公众号推出的专辑功能，我尝试每写一篇都发表然后放在[公众号专辑](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&\_\_biz=MzU4NjU4ODQ2MQ==\&scene=1\&album\_id=1402375646780817409#wechat\_redirect)中，当做对自己的一个提醒。
 
 第一篇发表于2020-06-23，接下来的几天，我都保持了每天阅读一章、重复一遍、更新一篇的节奏。当然，开始的速度会很慢，但随着对整体数据结构以及R包、函数的了解越来越深入，我也能明白作者想要做什么事，又是如何去实现的，后来速度就快了许多。这里必须要感谢Bioconductor团队精心准备了各种测试数据集和详细的操作代码。
 
