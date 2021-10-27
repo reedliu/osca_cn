@@ -27,6 +27,7 @@
   * [2.3.3 算法 | 2021-单细胞差异分析方法评测](02/2.3.3-suan-fa-2021-dan-xi-bao-cha-yi-fen-xi-fang-fa-ping-ce.md)
   * [2.3.4 算法 | 2021-细胞分群新方法——CNA（co-varying neighborhood analysis）](02/2.3.4-suan-fa-2021-xi-bao-fen-qun-xin-fang-fa-cnacovarying-neighborhood-analysis.md)
   * [2.3.5 工具 | 2018-iSEE：单细胞数据可视化辅助网页工具](02/2.3.5-gong-ju-2018isee-dan-xi-bao-shu-ju-ke-shi-hua-fu-zhu-wang-ye-gong-ju.md)
+  * [2.3.6 工具 | 2021-MACA: 一款自动注释细胞类型的工具](02/2.3.6-gong-ju-2021maca-yi-kuan-zi-dong-zhu-shi-xi-bao-lei-xing-de-gong-ju.md)
 * [3 流程篇：分析框架](03/README.md)
   * [3.1 质控](03/03-1.md)
   * [3.2 归一化](03/03-2.md)
