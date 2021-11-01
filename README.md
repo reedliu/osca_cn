@@ -5,7 +5,7 @@
 Hi 大家好，我是[生信星球](https://jieandze1314-1255603621.cos.ap-guangzhou.myqcloud.com/blog/2020-05-09-035101.png)的”豆豆“，也是[~~简书~~](https://www.jianshu.com/u/d7b77c171c15)上的”刘小泽“(由于简书平台封锁了太多文章，目前更新均在[博客](https://www.jieandze1314.com))。\
 这是我的第一本开源书，之后也许会有第二本、第三本...持续学习，不断努力:cowboy:&#x20;
 
-**本书链接会持续更新( updated on 2021-10-28)：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top)
+**本书链接会持续更新( updated on 2021-11-01)：**[https://jieandze1314.osca.top/](https://jieandze1314.osca.top)
 
 **关于引用：**YunzeLiu. (2020). Single Cell Symphony (Version 2.0). Zenodo. [https://doi.org/10.5281/zenodo.4044753](https://doi.org/10.5281/zenodo.4044753)
 
